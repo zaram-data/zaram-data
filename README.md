@@ -44,5 +44,5 @@ I'm a passionate **Back-end developer and Data Analyst** with experience in **py
 - **https://bit.ly/dianalytics**
 - **https://www.linkedin.com/in/daniel-isaac-orji-9ba582209/**
 - **https://www.kaggle.com/danielisaacorji**
-- **datascienceportfol.io/DanielIsaacorji**
+- **https://www.datascienceportfol.io/DanielIsaacorji**
 
