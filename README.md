@@ -29,7 +29,16 @@ I'm a passionate **Back-end developer and Data Analyst** with experience in **py
 <b>Product & Process</b>: Requirements <span>•</span> Agile/Scrum <span>•</span> Collaboration <span>•</span> Communication <span>•</span> Data Governance & Quality
 
 <p>
-## Get in Touch 📬
+<p>
+  <img src="https://img.shields.io/badge/Language-SQL-informational"> 
+  <img src="https://img.shields.io/badge/Framework-Express.js-informational?logo=node.js"> 
+  <img src="https://img.shields.io/badge/Language-Python-informational?logo=python">
+  <img src="https://img.shields.io/badge/BI-Power%20BI-informational?logo=powerbi">
+  <img src="https://img.shields.io/badge/DB-PostgreSQL-informational?logo=postgresql">
+  <img src="https://img.shields.io/badge/Cloud-Render/Heroku/AWS-informational">
+  <img src="https://img.shields.io/badge/DevOps-Docker-informational?logo=docker">
+</p> 
+**Get in Touch**📬
 
 - **https://bit.ly/dianalytics**
 - **https://www.linkedin.com/in/daniel-isaac-orji-9ba582209/**
