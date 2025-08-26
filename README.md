@@ -1,6 +1,6 @@
 # Hi there, I'm Isaac-orji Daniel! 👋
 
-https://github.com/zaram-data/zaram-data/blob/main/DANIEL%20WISDOM%20ISAAC-ORJI%20(1).png
+DANIEL WISDOM ISAAC-ORJI (1) (1).png
 
 ## About Me 🚀
 
