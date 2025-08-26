@@ -5,7 +5,7 @@
 
 I'm a passionate **Back-end developer and Data Analyst** with experience in **python, SQL, PowerBI, Excel**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
--  🎓 I’m a learner in the <b>ALX Data Analysis</b> and <b>Back-End Development</b> tracks.  
+- 🎓 I’m a learner in the <b>ALX Data Analysis</b> and <b>Back-End Development</b> tracks.  
 - 💡 Why I started: <b>financial independence</b> and <b>delivering value that improves sales and decision-making</b>.  
 - 🌍 Mission: <b>create jobs for youths</b> by building and scaling real-world solutions.  
 - 🧭 Interests: <b>banking, business, transportation, and sales projects</b> where data and code drive measurable impact.  
@@ -38,6 +38,7 @@ I'm a passionate **Back-end developer and Data Analyst** with experience in **py
   <img src="https://img.shields.io/badge/Cloud-Render/Heroku/AWS-informational">
   <img src="https://img.shields.io/badge/DevOps-Docker-informational?logo=docker">
 </p> 
+
 **Get in Touch**📬
 
 - **https://bit.ly/dianalytics**
